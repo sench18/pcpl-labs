@@ -1,0 +1,16 @@
+$ python3 -m rk_02.solution
+А1
+('Boost', 6, 'язык C++')
+('NumPy', 8, 'язык Python')
+('Polars', 12, 'язык Python')
+('serde', 4, 'язык Rust')
+
+А2
+('язык Python', 20)
+('язык C++', 6)
+('язык Rust', 4)
+
+А3
+язык Python: Polars, NumPy
+язык Rust: Polars, serde
+язык C++: Boost

@@ -1,0 +1,5 @@
+cargo fmt --check: OK
+    Checking grade_analyzer v0.1.0 (/workspace/scratch/76861186b930/published-pcpl-labs/homework)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.65s
+CLI: обычный файл, ошибочная оценка, отсутствующий файл,
+нет аргументов, лишние аргументы, --help: 6 проверок OK.

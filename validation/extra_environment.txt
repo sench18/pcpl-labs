@@ -1,0 +1,14 @@
+Дата проверки: 19 октября 2026
+Среда: Linux x86_64
+Python 3.12.14
+cargo 1.99.1 (5f94df478 2026-08-27)
+rustc 1.99.1 (58cf8f9c3 2026-10-13)
+
+Python suite: 64 passed (extra_pytest.txt)
+РК-2: 3 unittest tests OK
+Rust: 6 unit tests OK
+CLI: 6 checks OK
+fmt, clippy -D warnings: OK
+DOCX/PDF: 22 страницы просмотрены, дефекты исправлены.
+Источник дополнительных работ: VelisBro/pcpl-labs, a4b4f8dd6d3d470dd936cce19909854e1071dda4
+РК адаптированы для предметной области 22: Библиотека — Язык программирования.
